@@ -12,5 +12,5 @@ bikeshare.py
 README.md
 
 ### Credits
-With thanks to my Udacity mentors. 
+With thanks to my Udacity mentors on the Programming for Data Science course. 
 
